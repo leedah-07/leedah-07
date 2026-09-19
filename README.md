@@ -8,7 +8,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">A passionate developer and data analyst dedicated to turning complex ideas into smart, user-friendly, and visually stunning web and mobile applications. I believe technology exists to simplify our lives and make them more beautiful</h4>
+<h2 data-importer="text" align="left">A passionate developer and data analyst dedicated to turning complex ideas into smart, user-friendly, and visually stunning web and mobile applications. I believe technology exists to simplify our lives and make them more beautiful</h2>
 
 ###
 
@@ -19,6 +19,11 @@
   <a href="https://www.linkedin.com/in/hadeel-al-faifi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div data-importer="socials" align="left">
 </div>
 
 ###
@@ -55,29 +60,20 @@
 
 ###
 
-<h3 data-importer="text" align="left">👀 I’m interested in ...</h3>
+<img data-importer="image" align="right" height="333" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPznKhi8miiZW30P3qBlTIFOcJzrIKPzuKMO-WbNXF-w&s=10"  />
 
 ###
 
-<img data-importer="image" align="right" height="277" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPznKhi8miiZW30P3qBlTIFOcJzrIKPzuKMO-WbNXF-w&s=10"  />
-
-###
-
-<h4 data-importer="text" align="left">*Front-end and Back-end development.<br>*Web design and user experience.<br>*Open source contributions.<br>*Problem-solving through coding</h4>
-
-###
-
-<div data-importer="socials" align="left">
-</div>
+<h3 data-importer="text" align="left">👀 I’m interested in ...<br><br><br>🎯Front-end and Back-end development.<br>🌼Web design and user experience.<br>🌙Open source contributions.<br>❄️Problem-solving through coding<br>💡Turning ideas into working code</h3>
 
 ###
 
 <br clear="both">
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leedah-07/leedah-07/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leedah-07/leedah-07/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leedah-07/leedah-07/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leedah-07/leedah-07/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leedah-07/leedah-07/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leedah-07/leedah-07/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ###
@@ -85,4 +81,4 @@
 <div data-importer="socials" align="left">
 </div>
 
-#
+###
