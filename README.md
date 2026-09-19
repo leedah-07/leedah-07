@@ -8,7 +8,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">A passionate developer and data analyst dedicated to turning complex ideas into smart, user-friendly, and visually stunning web and mobile applications. I believe technology exists to simplify our lives and make them more beautiful</h2>
+<h3 data-importer="text" align="left">A passionate developer and data analyst dedicated to turning complex ideas into smart, user-friendly, and visually stunning web and mobile applications. I believe technology exists to simplify our lives and make them more beautiful</h3>
 
 ###
 
